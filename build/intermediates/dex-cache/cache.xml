@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yuanluchang/Downloads/GrandmaFirstAppDemo1/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="/Users/yuanluchang/Downloads/GrandmaFirstAppDemo1/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi-90af2202d871f5eebb2cd985c856dba8902a5263.jar" />
+    </item>
+
+</items>
